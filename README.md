@@ -29,8 +29,8 @@
 ### Link
 #### 📕[Portfolio](https://fragrant-pawpaw-4c3.notion.site/c49342009e30472eb4a5661b1af3dd76?pvs=74)
 #### 📗[Blog](https://handcraftdesign.tistory.com/)
-#### 📘[Tech Notes]()
-#### 📙[Design Portfolio](https://fragrant-pawpaw-4c3.notion.site/1f48187bc7d5464dbaf562994c50a546?pvs=25)
+#### 📘[Tech Notes](https://fragrant-pawpaw-4c3.notion.site/TECH-NOTES-631d009bfece4ea98713a169ec81e0aa?pvs=4)
+#### 📙[Design Portfolio](https://fragrant-pawpaw-4c3.notion.site/1f48187bc7d5464dbaf562994c50a546?pvs=4)
 ##### 📑 CV
 ##### 📑 Résumé
 
